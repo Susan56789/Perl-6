@@ -14,6 +14,8 @@ The languages in this family include Perl 5 and Perl 6
 
 It supports both procedural and object-oriented programming
 
+Code Staments in Perl ends with a semicolon
+
 ## Uses in the industry
 
 System administration
